@@ -1,5 +1,7 @@
 # This is how to setup the Nvidia Driver on Fedora, and some others nvidia related tweaks.
 
+### (If you break your system please open a GitHub issue)
+
 #### First setup the rpmfusion repo, by typing these command in the terminal.
 ```
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
