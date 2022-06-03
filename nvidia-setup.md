@@ -7,16 +7,16 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 ```
 
-#### Now do this, to cache the newly added repo.
+### Now do this, to cache the newly added repo.
 ```
 sudo dnf upgrade --refresh
 ```
 
-#### Now type this command to know what nvidia gpu you have. (You can skip this if you already know)
+### Now type this command to know what nvidia gpu you have. (You can skip this if you already know)
 ```
 /sbin/lspci | grep -e VGA
 ```
-Here an example of what it could look like:
+#### Here an example of what it could look like:
 ``` 
 $ /sbin/lspci | grep -e VGA
 01:00.0 VGA compatible controller: NVIDIA Corporation GA104M [GeForce RTX 3070 Mobile / Max-Q] (rev a1)
