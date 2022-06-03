@@ -17,11 +17,11 @@ sudo dnf upgrade --refresh
 /sbin/lspci | grep -e VGA
 ```
 Here an example of what it could look like:
-
-`$ /sbin/lspci | grep -e VGA
+``` 
+$ /sbin/lspci | grep -e VGA
 01:00.0 VGA compatible controller: NVIDIA Corporation GA104M [GeForce RTX 3070 Mobile / Max-Q] (rev a1)
-06:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Cezanne (rev c5)`
-
+06:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Cezanne (rev c5)
+```
 As you can see i have a RTX 3070, now to the next step.
 
 (This is still wip)
