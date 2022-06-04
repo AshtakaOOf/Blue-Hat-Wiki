@@ -17,6 +17,7 @@ deltarpm=true
 max_parallel_downloads=6
 ```
 Change the number from 2 to 10 (Lower if your internet is slow, Higher if you have a fast internet).
+After you finished save and quit.
 
 ### Add the rpmfusion repo (This will let you install more apps for fedora). 
 Begin by typing these command in the terminal.
