@@ -26,4 +26,4 @@ As you can see i have a RTX 3070, now let's go to the next step.
 
 ```
 
-## (This is still wip) Here is the [rpmfusion documentation](https://rpmfusion.org/Howto/NVIDIA). Use this for now.
+## (This is still wip) For now use the [rpmfusion documentation](https://rpmfusion.org/Howto/NVIDIA).
