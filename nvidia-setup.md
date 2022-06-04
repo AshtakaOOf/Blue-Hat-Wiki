@@ -16,4 +16,4 @@ $ /sbin/lspci | grep -e VGA
 ```
 As you can see i have a RTX 3070, now let's go to the next step.
 
-(This is still wip)
+(This is still wip) [rpmfusion documentation](https://rpmfusion.org/Howto/NVIDIA)
