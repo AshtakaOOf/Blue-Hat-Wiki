@@ -2,7 +2,7 @@
 
 #### (If you break your system please open a GitHub issue)
 
-[Please first do this part of the wiki, or this won't work.](dnf-and-repo-tweak.md)
+## [Please first do this part of the wiki, or this won't work.](dnf-and-repo-tweak.md)
 
 ### First Discover what Nvidia GPU you have.
 To begin type this command to know what nvidia gpu you have. (You can skip this if you already know)
