@@ -1,4 +1,4 @@
-# Blue-Hat-Wiki
+# Blue-Hat-Wiki (WIP)
 A wiki for gaming on fedora workstation and some distro.
 
 [Placeholder link](https://itsfoss.com/things-to-do-after-installing-fedora/)
